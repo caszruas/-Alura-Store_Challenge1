@@ -19,6 +19,8 @@ Dados Analisados
 
 4.loja4_faturamento: 1384497.58
 
+
+
 2- Vendas por categoria de produto: 
 
 Quantidade de produtos vendidos por categoria em cada loja:
